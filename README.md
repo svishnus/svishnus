@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sundara Vishnu Satish, a CS Freshman at the University of Michigan, Ann Arbor💙🟡
+- 👋 Hi, I’m Sundara Vishnu Satish, a CS Junior at the University of Michigan, Ann Arbor💙🟡
 - 👀 I’m interested in ... SWE, ML/AI
 - 🌱 I’m currently learning ... C++, Data Structures and Algorithms, React, OCaml
 - 💞️ I’m looking to collaborate on ... ML and Full Stack Projects
