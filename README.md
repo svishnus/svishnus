@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Vishnu, currently a junior majoring in CS & Math (maybe Music¿) at the University of Michigan, Ann Arbor💙🟡
-- 💻 I’m primarily interested in ...  Programming Languages, Distributed Sytems, and problems at their intersection
-- 📖 I’m currently learning ... Vim, modern C++, and advanced OCaml
-- 👷‍♂️ I’m looking to collaborate on ... anything cool that sparks my interest
-- 📫 How to reach me ... svishnus1911@gmail.com,
+- 👋 Hi, I’m Vishnu, currently a senior pursuing CS + Math + Music at the University of Michigan, Ann Arbor💙🟡
+- 💻 I’m primarily interested in ...
+  - Programming Languages Theory
+  - Systems (particularly of the distributed variety)
+  - Software Engineering 
+- You can reach me @ svishnus@umich.edu
 - LinkedIn: https://www.linkedin.com/in/sundaravishnusatish/
 - X/Twiiter: https://twitter.com/sundara_vishnu
 
